@@ -165,6 +165,76 @@
 
 
 <div class="card mb-4">
+{{-- my defrent table starte --}}
+
+{{-- <h1>deferent table</h1>
+
+ <div class="container mt-4">
+  <div class="table-responsive">
+    <table class="table table-bordered table-hover table-sm">
+      <thead>
+        <tr class="text-center">
+          <th rowspan="2">Style</th>
+          <th rowspan="2">Color</th>
+          <th rowspan="2">Size</th>
+          <th rowspan="2">Cutting</th>
+          <th colspan="2">Print Send</th>
+          <th colspan="2">Print recived</th>
+          <th rowspan="2">Shipment Qty</th>
+        </tr>
+        <tr class="text-center">
+          <th>Send Qty</th>
+          <th>Balance</th>
+           <th>recived qty</th>
+            <th>Balance <br>(send-recieved) </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3">FIRE 5243</td>
+          <td rowspan="3">Black</td>
+          <td>XS</td>
+          <td class="text-right">100</td>
+          <td class="text-right">80</td>
+          <td class="text-right">20</td>
+          <td class="text-right">50</td>
+          <td class="text-right">50</td>
+          <td class="text-right">50</td>
+        </tr>
+        <tr>
+          <td>S</td>
+          <td class="text-right">120</td>
+          <td class="text-right">90</td>
+          <td class="text-right">30</td>
+          <td class="text-right">60</td>
+          <td class="text-right">50</td>
+          <td class="text-right">50</td>
+        </tr>
+        <tr>
+          <td>M</td>
+          <td class="text-right">150</td>
+          <td class="text-right">100</td>
+          <td class="text-right">50</td>
+          <td class="text-right">70</td>
+          <td class="text-right">50</td>
+          <td class="text-right">50</td>
+        </tr>
+        <tr>
+          <td colspan="3" class="text-center fw-bold">Total</td>
+          <td class="text-right fw-bold">370</td>
+          <td class="text-right fw-bold">270</td>
+          <td class="text-right fw-bold">100</td>
+          <td class="text-right fw-bold">180</td>
+          <td class="text-right">50</td>
+          <td class="text-right">50</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div> --}}
+
+
+{{--my defrent table end --}}
     <div class="card-header">Browse Jobs</div>
     <div class="card-body">
         <div class="container">
